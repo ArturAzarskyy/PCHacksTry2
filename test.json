@@ -1,0 +1,4 @@
+{
+    "nofrils":[{"name":"bananna", "price":"2.5"}, {"name":"apple", "price":"1.24"}],
+    "wallmart":[{"name":"bananna", "price":"1.5"}, {"name":"apple", "price":"2.24"}]
+}
